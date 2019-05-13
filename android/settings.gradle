@@ -1,0 +1,3 @@
+rootProject.name = 'rocketseat_flexbox'
+
+include ':app'
